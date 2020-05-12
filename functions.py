@@ -6,6 +6,10 @@
 =======
 # in theis file we will put all function definitins
 <<<<<<< HEAD
+
+#Hello world - Jo
+=======
+<<<<<<< HEAD
 # Hello World -Ryan 
 =======
 
