@@ -1,5 +1,5 @@
 <<<<<<< HEAD
-'# in theis file we will put all function definitins
+Hello World - Gavin
 
 # mmw says hello teammates
 
